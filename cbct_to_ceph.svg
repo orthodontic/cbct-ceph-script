@@ -1,0 +1,13 @@
+<svg width="175.36mm" height="92.539mm" version="1.1" viewBox="0 0 175.36 92.539" xmlns="http://www.w3.org/2000/svg">
+  <g transform="translate(-13.573 -11.996)">
+    <path d="m83.213 84.294h5.2917v-64.758h-54.692v5.2917" style="fill:#fff;opacity:.2;stroke-width:2.381;stroke:#00466e"/>
+    <path d="m89.563 77.944h5.2917v-64.758h-54.692v5.2917" style="fill:#fff;opacity:.05;stroke-width:2.381;stroke:#00466e"/>
+    <path d="m76.863 90.644h5.2917v-64.758h-54.692v5.2917" style="fill:#fff;opacity:.5;stroke-width:2.381;stroke:#00466e"/>
+    <path d="m70.513 96.994h5.2917v-64.758h-54.692v5.2917" style="fill:#fff;opacity:.8;stroke-width:2.381;stroke:#00466e"/>
+    <rect x="14.763" y="38.586" width="54.692" height="64.758" style="fill:#fff;stroke-width:2.381;stroke:#00466e"/>
+    <text x="29.901438" y="74.658592" style="fill:#005780;font-family:'Meta Offc Pro';font-size:10.583px;font-weight:bold;line-height:1.25;stroke-width:.26458" xml:space="preserve"><tspan x="29.901438" y="74.658592" style="fill:#005780;font-family:'Meta Offc Pro';font-weight:bold;stroke-width:.26458">CBCT</tspan></text>
+    <rect x="133.05" y="38.586" width="54.692" height="64.758" style="fill:#fff;stroke-width:2.381;stroke:#00466e"/>
+    <text x="149.00249" y="74.986671" style="fill:#005780;font-family:'Meta Offc Pro';font-size:10.583px;font-weight:bold;line-height:1.25;stroke-width:.26458" xml:space="preserve"><tspan x="149.00249" y="74.986671" style="fill:#005780;font-family:'Meta Offc Pro';font-weight:bold;stroke-width:.26458">Ceph</tspan></text>
+    <path d="m85.331 70.965h40.945l-4.4576-3.821m0 7.6481 4.4576-3.8272h-40.945" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.565;stroke:#00466e"/>
+  </g>
+</svg>
