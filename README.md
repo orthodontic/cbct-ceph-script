@@ -1,6 +1,6 @@
 # CBCT Ceph Script
 
-![Alt text](./cbct_to_ceph.svg)
+![Alt text](./cbct_to_ceph.svg?1)
 
 ## Dependencies
 ```console
